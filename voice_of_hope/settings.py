@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zn&-3b)@=3dkxwzsuij652msao@s5ncw&66k@=6q3ed5mi(z2d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://previous-ana-voice-of-hope-0c07eda1.koyeb.app']
+ALLOWED_HOSTS = ['previous-ana-voice-of-hope-0c07eda1.koyeb.app']
 
 
 # Application definition
